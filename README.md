@@ -26,9 +26,9 @@ Optionally, you can install the CLI package globally by running:
 npm install -g @edgio/cli
 ```
 
-### Run the Astro app locally on Edgio
+### Run the Sveltekit app locally on Edgio
 
-Run the Astro app with the command:
+Run the Sveltekit app with the command:
 
 ```bash
 npx edgio dev
